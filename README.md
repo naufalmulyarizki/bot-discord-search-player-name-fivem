@@ -1,3 +1,5 @@
+https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/images/backgroundgithub.png
+
 # Bot Discord Search Player Name FiveM
 
 Bot Discord untuk memantau server FiveM secara langsung melalui CFX API. Bot ini bisa menampilkan daftar server, mencari pemain, melihat detail server, daftar pemain online, serta mengelola daftar server langsung dari Discord (khusus admin). Tersedia juga panel **Lobby** berbasis tombol agar semua fitur bisa diakses tanpa mengetik command.
